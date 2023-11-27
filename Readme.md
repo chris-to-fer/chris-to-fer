@@ -1,7 +1,7 @@
 ![me](./me-klein.jpg)
 
 this would be me ... if i would have chosen to become a painter
-# Welcome!
+# Welcome on an early version of an about me page!
 I am starting a web development bootcamp right now! Contrary to coding I do have a glue about filmmaking and video stuff...
 
 What I will learn, hopefully:
