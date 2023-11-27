@@ -3,3 +3,9 @@ I am starting a web development bootcamp right now! Contrary to coding I do have
 
 ## I like the major
 ![major](./major.webp)
+
+### Things I don't like
+- real milk
+- grapefruit
+- early
+
