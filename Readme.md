@@ -4,12 +4,16 @@
 
 this would be me ... if i would have chosen to become a painter. What I did instead:
 
-I am starting a web development bootcamp right now! Contrary to coding I do have a glue about filmmaking and video stuff...
+I am starting a web development bootcamp right now! 
 
 What I will learn, hopefully:
 ---
 ![](https://img.shields.io/badge/Code-javascript-blue?logo=javascript) ![](https://img.shields.io/badge/notsurewhatthatis-github-blue?logo=github) 
 ---
+
+
+Contrary to coding I do have a glue about filmmaking and video stuff...
+
 
 ---
 ![major](./2501-Filme.jpeg)
