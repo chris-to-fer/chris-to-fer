@@ -9,6 +9,8 @@ I am starting a web development bootcamp right now!
 What I will learn, hopefully:
 ---
 ![](https://img.shields.io/badge/Code-javascript-blue?logo=javascript) ![](https://img.shields.io/badge/notsurewhatthatis-github-blue?logo=github) 
+
+![Codewars](https://www.codewars.com/users/chris-to/badges/micro)
 ---
 
 
