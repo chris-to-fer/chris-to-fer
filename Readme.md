@@ -1,24 +1,27 @@
-# Welcome on an early version of an about me page!
+# Welcome to my repository!
 
-![me](./me-klein.jpg)
+![](./me-klein.jpg)
 
-this would be me ... if i would have chosen to become a painter. What I did instead:
-
-I am starting a web development bootcamp right now! 
-
-What I will learn, hopefully:
----
-![](https://img.shields.io/badge/Code-javascript-blue?logo=javascript) ![](https://img.shields.io/badge/notsurewhatthatis-github-blue?logo=github) 
 
 ![Codewars](https://www.codewars.com/users/chris-to/badges/micro)
+
+
+
+I work with:
+---
+![](https://img.shields.io/badge/code-javascript-blue?logo=javascript) ![](https://img.shields.io/badge/codehosting-github-blue?logo=github) ![Static Badge](https://img.shields.io/badge/frontend-html-blue?logo=html5) ![Static Badge](https://img.shields.io/badge/backend-next.js-blue?logo=next.js) ![Static Badge](https://img.shields.io/badge/framework-react-blue?logo=react) ![Static Badge](https://img.shields.io/badge/package-npm-blue?logo=npm) ![Static Badge](https://img.shields.io/badge/DevOps-git-blue?logo=git) ![Static Badge](https://img.shields.io/badge/code-typescript-blue?logo=typescript) ![Static Badge](https://img.shields.io/badge/server-express-blue?logo=express) ![Static Badge](https://img.shields.io/badge/database-mongoDB-blue?logo=mongodb)
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 
-Contrary to coding I do have a glue about filmmaking and video stuff...
 
-
----
-![major](./2501-Filme.jpeg)
-
-### I also used to have a blog
-On [2501.eu](http://www.2501.eu/) you can find movie reviews and lists of good movies ... and also some not so good ones...
